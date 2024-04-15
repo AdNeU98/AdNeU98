@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anirban Dutta</h1>
-<h3 align="center">Backend Software Engineer; Transforming Ideas into Reliable Solutions</h3>
+<h3 align="center">Full Stack Software Engineer; Transforming Ideas into Reliable Solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adneu98&label=Profile%20views&color=0e75b6&style=flat" alt="adneu98" /> </p>
 
