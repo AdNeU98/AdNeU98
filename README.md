@@ -5,7 +5,7 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Anirban</h1></summary>
-    <h4>Full Stack Software Engineer | ex-SDE Intern @Dassault Systèmes (USA) | ex-SDE Full Time @Cleartrail Technologies, Impetus | C++ | Java | Python | NodeJS | ReactJS| AWS | GCP | DevOps | Docker | Kubernetes | CI/CD </h4>
+    <h4>Grad Student @Northeastern University, Boston, MA | Full Stack Software Engineer | ex-SDE Intern @Dassault Systèmes (USA) | ex-SDE Full Time @Cleartrail Technologies, Impetus | C++ | Java | Python | NodeJS | ReactJS| AWS | GCP | DevOps | Docker | Kubernetes | CI/CD </h4>
   </ul>
 </div>
 
