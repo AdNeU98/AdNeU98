@@ -5,7 +5,7 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Anirban</h1></summary>
-    <h4>Full Stack Software Engineer | ex-SDE Intern @Dassault Systèmes (USA) | C++ | Java | Python | NodeJS | ReactJS| AWS | GCP | DevOps | Docker | Kubernetes | CI/CD </h4>
+    <h4>Full Stack Software Engineer | ex-SDE Intern @Dassault Systèmes (USA) | ex-SDE Full Time @Cleartrail Technologies, Impetus | C++ | Java | Python | NodeJS | ReactJS| AWS | GCP | DevOps | Docker | Kubernetes | CI/CD </h4>
   </ul>
 </div>
 
@@ -30,20 +30,6 @@
 - 📫 Feel free to reach me out **anirbandutta1098@gmail.com**
 
 <!--Intro end-->
-
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-
-<td width="50%" align="center">
-</tr>
-</table>
-<!--- stats (end) -->
-
-</p>        
-<!--- stats (end) -->
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
